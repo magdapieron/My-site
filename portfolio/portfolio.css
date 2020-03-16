@@ -1,0 +1,125 @@
+body
+{
+    background-color: #303030;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+
+#container
+{
+    width: 98vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle
+{
+    width: 94vw;
+    margin: 2vw;
+    text-align: center;
+}
+
+.square
+{
+    width: 48vw;
+    float: left;
+    margin-left: 1vw;
+}
+
+#logo
+{
+    float: left;
+    font-family: 'Parisienne', cursive;
+    font-size: 50px;
+    width: 54vw;
+    text-align: left;
+}
+
+#zegar
+{
+    float: left;
+    font-family: 'Parisienne', cursive;
+    font-size: 50px;
+    text-align: left;
+}
+
+.tile1
+{
+    margin: 1vw;
+    width: 20vw;
+    height:12vw ;
+    background-color: dodgerblue;
+    float: left;
+
+}
+
+.tile2
+{
+    margin: 1vw;
+    width: 20vw;
+    height:12vw ;
+    background-color: #808080e1;
+    float: left;
+}
+
+.tile3
+{
+    margin: 1vw;
+    width: 20vw;
+    height:12vw ;
+    background-color: yellowgreen;
+    float: left;
+}
+
+.tile4
+{
+    margin: 1vw;
+    width: 42vw;
+    height:12vw ;
+    background-color: #ff7300;
+}
+
+.tile5
+{
+    margin: 1vw;
+    width: 42vw;
+    height: 26vw;
+    background-color: #808080e1;
+}
+
+.yt
+{
+    float: left;
+    margin: 1vw;
+    width: 9vw;
+    height:12vw;
+    background-color: #d94348;
+}
+
+.fb
+{
+    float: left;
+    margin: 1vw;
+    width: 9vw;
+    height:12vw;
+    background-color: #4668b3;
+}
+
+.snap
+{
+    float: left;
+    margin: 1vw;
+    width: 9vw;
+    height:12vw;
+    background-color: #ffe600;
+}
+
+.insta
+{
+    float: left;
+    margin: 1vw;
+    width: 9vw;
+    height:12vw;
+    background-color: #ca6285;
+}
